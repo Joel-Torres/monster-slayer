@@ -1,0 +1,23 @@
+-   2/21/2021
+    -   redo app.js and index (todo) up to #55video.
+-   2/23/2021
+    -   redo app.js and index (cont) up to #55video.
+-   3/2/2021
+    -   redo the UI of the game over you lost component. (done)
+
+-   3/3/2021
+    -   fix the health value column to reflect 0 value. (done)
+    -   re-do again with ui game over component (done)
+
+-   3/3/2021
+    -   fix the health value column to reflect 0 value. (done)
+    -   re-do again ui game over component (done)
+    -   fix the start new game feature ()
+    -   add surrender functionality
+
+-   3/8/2021
+    -   fix the health value column to reflect 0 value. (done)
+    -   re-do again ui game over component (done)
+    -   fix the start new game feature (done)
+    -   add surrender functionality ()
+
