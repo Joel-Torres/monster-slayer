@@ -38,6 +38,8 @@ const app = Vue.createApp({
     playerHealthBar() {
       if(this.playerHealth < 0) {
         this.playerHealth = 0
+      } else if (this.playerHealth > 100) {
+        this.playerHealth = 100
       }
       return {width: this.playerHealth + '%'}
     },
